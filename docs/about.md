@@ -1,7 +1,9 @@
+![Project Cover Photo](https://raw.githubusercontent.com/iamshaqir/KeyNots/main/images/IMG_3079.JPG)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2D74B3&size=32&multiline=true&width=700&lines=Welcome+to+Shakir's+GitHub+Profile!)](https://git.io/typing-svg)
 
 ## Software Engineer | Backend & Cloud Enthusiast<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px">
-Hello there👋, I'm Shakir, passionate software engineer with over 6 years of experience specializing in building scalable microservices and distributed systems. I am curious about solving real-world problems and optimizing performance.
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px">Hi, I'm Shakir, passionate software engineer with over 6 years of experience specializing in building scalable microservices and distributed systems. I am curious about solving real-world problems and optimizing performance.
 
 
 ### What I Do & What Excites Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
@@ -14,6 +16,9 @@ Hello there👋, I'm Shakir, passionate software engineer with over 6 years of e
 - ⚡ Problem Solving
 
 ---
+
+## Beyond the Code: My Passions
+
 
 ### Languages and Tools <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="30px">
 <p align="left">
