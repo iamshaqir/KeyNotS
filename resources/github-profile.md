@@ -1,15 +1,15 @@
-# KeyNotS: Quick Reference for Backend Engineering
+# KeyNotS: Quick References for Backend Engineering
+
 Welcome to KeyNotS, your go-to resource for quick references or cheat sheets related to backend engineering such as 
 `Java`, `Microservices`, `APIs`, `Spring Boot`, `Spring Cloud`, `Kafka`, `Linux`, `Jenkins`, `Docker`, `Kubernetes`, `Git` etc.
 
 ## Explore KeyNotS Resources
 
 Dive into a variety of resources tailored for backend engineers:
-
-1. Save time with cheat sheet snippets for `Linux`, `Git`, `Docker` etc.
-2. Resources for backend engineering focusing on performance.
-3. Discover tips for managing your services efficiently and securely, covering topics like API design, testing, and 
-   performance optimization.
+- Save time with cheat code snippets for Linux, Git, Docker etc.
+- Resources for backend engineering focusing on performance
+- Discover tips for managing your services efficiently and securely, covering topics like API design, testing, and 
+performance optimization.
 
 ## Developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
