@@ -1,12 +1,25 @@
-![Project Cover Photo](https://raw.githubusercontent.com/iamshaqir/KeyNots/main/images/IMG_3079.JPG)
+![Project Cover Photo](https://raw.githubusercontent.com/iamshaqir/KeyNots/main/resources/images/cover-photo.JPG)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2D74B3&size=32&multiline=true&width=700&lines=Welcome+to+Shakir's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2D74B3&size=32&multiline=true&width=1100&lines=Welcome+to+KeyNotS+-+Quick+Reference+for+Backend+Dev+Tools!)](https://git.io/typing-svg)
+
+<a href="https://www.instagram.com/mohammadshakirr_/">
+  <img align="right" alt="Shakir's Email" width="32px" src="https://raw.githubusercontent.com/iamshaqir/KeyNots/main/resources/images/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/emshakir/" target="blank" >
+   <img align="right" alt="Shakir's LinkedIn" width="32px" src="https://raw.githubusercontent.com/iamshaqir/KeyNots/main/resources/images/linkedin.svg" />
+</a>
+<a href="mailto: pingshakirm@gmail.com">
+  <img align="right" alt="Shakir's Email" width="32px" src="https://raw.githubusercontent.com/iamshaqir/KeyNots/main/resources/images/mail.png" />
+</a>
+
+<img src="https://raw.githubusercontent.com/iamshaqir/KeyNots/main/resources/gifs/wave.gif" height="30px"> Hi, I’m Mohammad Shakir!
+=
 
 ## Software Engineer | Backend & Cloud Enthusiast<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px">Hi, I'm Shakir, passionate software engineer with over 6 years of experience specializing in building scalable microservices and distributed systems. I am curious about solving real-world problems and optimizing performance.
-
+I am super passionate about technology, problem solving, and creativity to build scalable microservices and distributed systems that have an impact on the world. Currently, I'm interested in low-level, high-level system design, concurrent/parallel programming, and distributed systems. I am curious about solving real-world problems and optimizing performance.
 
 ### What I Do & What Excites Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+
 - 🔭 Microservices & Distributed Systems
   
 - 📊 Data Streaming & Analytics
@@ -17,8 +30,15 @@
 
 ---
 
-## Beyond the Code: My Passions
+### Beyond the Code: My Passions <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="30px">
 
+- 🤸‍♂️ Calisthenics
+
+- 🏃‍♂️ Running
+
+- 🌄 Trekking
+
+---
 
 ### Languages and Tools <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="30px">
 <p align="left">
@@ -46,16 +66,12 @@
 ---
 
 ### Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+  <a href="mailto:pingshakirm@gmail.com">
+    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/emshakir/" target="blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mohammadshakirr_/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:pola.pingshakirm@gmail.com">
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-<br>
-<br>
-
-
